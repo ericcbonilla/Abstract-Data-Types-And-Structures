@@ -1,0 +1,47 @@
+Eric Bonilla
+Lab 2
+10-9-14
+
+unique
+--------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.005     0.005
+Macbeth.txt                     0.103     0.026
+Genesis.txt                     0.109     0.021
+HoundOfTheBaskervilles.txt      0.323     0.056
+TheWarOfTheWorlds.txt           0.440     0.077
+TreasureIsland.txt              0.388     0.061
+TheSecretGarden.txt             0.359     0.058
+TheCountOfMonteCristo.txt       4.750     0.446
+TwentyThousandLeagues.txt       0.888     0.114
+Bible.txt                       5.129     0.439
+
+
+bincount
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.006     0.002
+Macbeth.txt                     0.025     0.019
+Genesis.txt                     0.029     0.013
+HoundOfTheBaskervilles.txt      0.051     0.026
+TheWarOfTheWorlds.txt           0.069     0.027
+TreasureIsland.txt              0.073     0.022
+TheSecretGarden.txt             0.065     0.024
+TheCountOfMonteCristo.txt       0.724     0.156
+TwentyThousandLeagues.txt       0.127     0.046
+Bible.txt                       0.838     0.227
+
+
+parity
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.003     0.004
+Macbeth.txt                     0.376     0.065
+Genesis.txt                     0.467     0.072
+HoundOfTheBaskervilles.txt      1.879     0.268
+TheWarOfTheWorlds.txt           2.275     0.366
+TreasureIsland.txt              2.324     0.314
+TheSecretGarden.txt             2.323     0.386
+TheCountOfMonteCristo.txt       52.433    5.800
+TwentyThousandLeagues.txt       5.500     0.715
+Bible.txt                       61.893    5.589
